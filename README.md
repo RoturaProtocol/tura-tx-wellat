@@ -84,7 +84,7 @@ This project is a fork of the [amazing work](https://templewallet.com/) from [Ma
 
 以上为插件启动及打包方法。
 
-在chrom打开插件之后  需要在dist 文件夹下 fullpage.js 中 将这个位置的‘api’改为‘burst’![image](https://github.com/RoturaProtocol/tura-tx-wellat/assets/44689430/ed101574-c6db-41b1-9a1e-442f2044bbc6)即可
+在chrom打开插件之后  需要在dist 文件夹下 fullpage.js 中 将这个位置的‘api’改为‘burst’，并把下一行的'mainnet=S'改为'TS' ![image](https://github.com/RoturaProtocol/tura-tx-wellat/assets/44689430/ed101574-c6db-41b1-9a1e-442f2044bbc6)即可
 
 
 
