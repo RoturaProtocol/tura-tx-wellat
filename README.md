@@ -1,4 +1,4 @@
-![image](https://github.com/RoturaProtocol/tura-tx-wellat/assets/44689430/390d6bb1-77a0-4708-8297-7c918fb2c17e)# Tura XT Wallet
+# Tura XT Wallet
 
 Cryptocurrency wallet for [Signum blockchain platform](https://signum.network) as Web Extension for your Browser.<br>
 Providing ability to manage Signa and interact with DApps.
