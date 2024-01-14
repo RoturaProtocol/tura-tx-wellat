@@ -126,7 +126,7 @@
     "message": "Add, remove and manage your contacts."
   },
   "addressInputDescription": {
-    "message": "Signum account address or ID"
+    "message": "Tura account address or ID"
   },
   "addressInputDescriptionWithDomain": {
     "message": "Address, ID or alias of the account"
@@ -194,10 +194,10 @@
     "message": "Other account"
   },
   "appDesc": {
-    "message": "Cryptocurrency wallet for the green Signum 🍀 blockchain as an extension for your browser."
+    "message": "Cryptocurrency wallet for the green Tura 🍀 blockchain as an extension for your browser."
   },
   "appName": {
-    "message": "Signum XT Wallet"
+    "message": "Tura XT Wallet"
   },
   "appRequestsToSign": {
     "message": "$origin$ asks you to confirm the transaction",
@@ -340,7 +340,7 @@
     "message": "Coming soon"
   },
   "communityResourcesTitle": {
-    "message": "You can always find additional information about the Signum XT wallet or ask for help:"
+    "message": "You can always find additional information about the Tura XT Wallet or ask for help:"
   },
   "confirm": {
     "message": "Confirm"
@@ -409,7 +409,7 @@
     "message": "Create New Wallet"
   },
   "createNewWalletDescription": {
-    "message": "Are you new to Signum and don't have a Signum wallet yet? Well then go! Let's create a new wallet"
+    "message": "Are you new to Tura and don't have a Tura wallet yet? Well then go! Let's create a new wallet"
   },
   "currentContacts": {
     "message": "Current Contacts"
@@ -921,7 +921,7 @@
     "message": "The minimum fee for this transaction is higher than your balance."
   },
   "mnemonic": {
-    "message": "Signum Recovery Phrase"
+    "message": "Tura Recovery Phrase"
   },
   "mnemonicInputDescription": {
     "message": "Your secret Recovery Phrase; usually 12 words."
@@ -978,7 +978,7 @@
     "message": "Networks"
   },
   "networksDescription": {
-    "message": "In this section you can add or delete custom Signum Nodes/Peers."
+    "message": "In this section you can add or delete custom Tura Nodes/Peers."
   },
   "newContactPlaceholder": {
     "message": "e.g. Jane Doe"
@@ -1160,11 +1160,11 @@
     "message": "Recipient"
   },
   "recipientInputPlaceholder": {
-    "message": "e.g. S-6SJC-... or 17332..."
+    "message": "e.g. TS-6SJC-... or 17332..."
   },
   "recipientInputPlaceholderWithDomain": {
-    "message": "e.g. S-6SJC-..., 17332... or peter",
-    "description": "foobar = Signum Alias"
+    "message": "e.g. TS-6SJC-..., 17332... or peter",
+    "description": "foobar = Tura Alias"
   },
   "reject": {
     "message": "Reject"
@@ -1642,7 +1642,7 @@
     "message": "View all"
   },
   "watchOnlyAccount": {
-    "message": "Signum Address"
+    "message": "Tura Address"
   },
   "website": {
     "message": "Site"
@@ -1686,16 +1686,16 @@
     "message": "Your address and balance"
   },
   "addressBalanceDescription": {
-    "message": "After creating an account, you’ll get an unique address — your personal identifier in the Signum blockchain. You need this address to receive SIGNA and execute transactions, i.e. sending SIGNA, messages, interact with Smart Contracts, issue tokens, etc."
+    "message": "After creating an account, you’ll get an unique address — your personal identifier in the Tura blockchain. You need this address to receive SIGNA and execute transactions, i.e. sending SIGNA, messages, interact with Smart Contracts, issue tokens, etc."
   },
   "addressBalanceHint": {
-    "message": "The address is being represented as <b>S-A1B2-...</b> for main net or <b>TS-A1B2-...</b> for test net. If you acquired an <b>alias</b> name for your account it will be displayable also. Once you have a positive balance it shows up below your address."
+    "message": "The address is being represented as <b>TS-A1B2-...</b> for main net or <b>TS-A1B2-...</b> for test net. If you acquired an <b>alias</b> name for your account it will be displayable also. Once you have a positive balance it shows up below your address."
   },
   "howToStartDetails": {
     "message": "Getting Signa"
   },
   "howToStartDescription1": {
-    "message": "To start using your wallet and interacting with the Signum DApps ecosystem, the account balance must be positive, as each transaction costs you a low fee"
+    "message": "To start using your wallet and interacting with the Tura DApps ecosystem, the account balance must be positive, as each transaction costs you a low fee"
   },
   "howToStartDescription2": {
     "message": "You can get SIGNA by buying on one of the exchanges, mining with hard drives, or by community engagements. Join us on Discord"
@@ -1746,7 +1746,7 @@
     "message": "Great! You are onboarded 🏆"
   },
   "congratsDescription2": {
-    "message": "Now you know about the basic and most important functions of the Signum XT wallet."
+    "message": "Now you know about the basic and most important functions of the Tura XT Wallet."
   },
   "congratsDescription3": {
     "message": "You can learn all features of the Wallet from our “Educational series” on YouTube."
@@ -1758,7 +1758,7 @@
     "message": "Join our communities in Telegram and Discord."
   },
   "congratsDescription6": {
-    "message": "Welcome to the Signum world!"
+    "message": "Welcome to the Tura world!"
   },
   "start": {
     "message": "Let's go"
@@ -1842,13 +1842,13 @@
     "message": "Example"
   },
   "createWalletDescription": {
-    "message": "Create a Signum wallet account and you may:"
+    "message": "Create a Tura wallet account and you may:"
   },
   "createWalletDescriptionOption1": {
-    "message": "send and receive Signa."
+    "message": "send and receive Tura."
   },
   "createWalletDescriptionOption2": {
-    "message": "connect and interact with Signum DApps."
+    "message": "connect and interact with Tura DApps."
   },
   "accountActivationAlertTitle": {
     "message": "Account not activated"
@@ -1863,7 +1863,7 @@
     "message": "Account successfully activated"
   },
   "accountActivationSuccessDescription": {
-    "message": "Welcome to Signum! If not already visible, you'll get an incoming activation transaction in a few moments."
+    "message": "Welcome to Tura! If not already visible, you'll get an incoming activation transaction in a few moments."
   },
   "attachmentDescription": {
     "message": "You may attach some text or binary data to this transaction. Here you also enter the memo required by many exchanges"
@@ -2066,7 +2066,7 @@
     "message": "Nostr Private Key"
   },
   "nostrAccountImportDescription": {
-    "message": "You can use the Signum Recovery Phrase to generate a Nostr account. If you select the option it is possible to use the wallet with Nostr Clients as well. You can see the generated keys in the settings."
+    "message": "You can use the Tura Recovery Phrase to generate a Nostr account. If you select the option it is possible to use the wallet with Nostr Clients as well. You can see the generated keys in the settings."
   },
   "importAccountRecoveryPhraseDescription": {
     "message": "The Recovery Phrase allows you to import an account completely. You can then execute transactions and DApps can also request transactions to be executed. Your signing keys are encrypted and stored exclusively on this browser instance."
@@ -2075,7 +2075,7 @@
     "message": "If you only use an account address or account id to import, it will not be possible to carry out transactions. You can only observe the imported account."
   },
   "importAccountNostrPrivKeyDescription": {
-    "message": "If you have a Nostr account but no Signum account, you can use your private Nostr key to create a matching Signum account for your existing Nostr account. You can also use the private Nostr key (in hex form only!!!) in other Signum wallets."
+    "message": "If you have a Nostr account but no Tura account, you can use your private Nostr key to create a matching Tura account for your existing Nostr account. You can also use the private Nostr key (in hex form only!!!) in other Tura wallets."
   },
   "nostrPrivateKeyImportWarn": {
     "message": "Note that this option is provided only in case you want to use your private nostr key as recovery phrase. Please check the resulting address before importing!"

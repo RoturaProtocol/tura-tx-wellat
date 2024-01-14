@@ -16,41 +16,41 @@ const links = [
   //   background: '#2182f7',
   //   Icon: HelpCrunchIcon
   // },
-  {
-    name: 'Feature Request or Bug Report',
-    href: 'https://github.com/signum-network/signum-xt-wallet/issues/new/choose',
-    Icon: GithubIcon
-  },
+  // {
+  //   name: 'Feature Request or Bug Report',
+  //   href: 'https://github.com/signum-network/signum-xt-wallet/issues/new/choose',
+  //   Icon: GithubIcon
+  // },
   {
     name: 'Twitter',
-    href: 'https://twitter.com/signum_official',
+    href: 'https://twitter.com/Tura_Blockchain',
     background: '#1DA1F2',
     Icon: TwitterIcon
   },
   {
     name: 'Telegram',
-    href: 'https://t.me/signumnetwork',
+    href: 'https://t.me/TuraGlobal',
     background: '#26A5E4',
     Icon: TelegramIcon
-  },
-  {
-    name: 'Discord',
-    href: 'https://discord.gg/QHZkF4KHDS',
-    background: '#7289DA',
-    Icon: DiscordIcon
-  },
-  {
-    name: 'Reddit',
-    href: 'https://www.reddit.com/r/Signum/',
-    background: '#FF4500',
-    Icon: RedditIcon
-  },
-  {
-    name: 'Youtube',
-    href: 'https://www.youtube.com/c/SignumNetwork',
-    background: '#FF0000',
-    Icon: YoutubeIcon
   }
+  // {
+  //   name: 'Discord',
+  //   href: 'https://discord.gg/QHZkF4KHDS',
+  //   background: '#7289DA',
+  //   Icon: DiscordIcon
+  // },
+  // {
+  //   name: 'Reddit',
+  //   href: 'https://www.reddit.com/r/Signum/',
+  //   background: '#FF4500',
+  //   Icon: RedditIcon
+  // }
+  // {
+  //   name: 'Youtube',
+  //   href: 'https://www.youtube.com/c/SignumNetwork',
+  //   background: '#FF0000',
+  //   Icon: YoutubeIcon
+  // }
 ];
 
 const HelpAndCommunity: FC = () => {

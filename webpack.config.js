@@ -97,7 +97,7 @@ module.exports = {
     publicAssetsPlugin(PUBLIC_PATH, OUTPUT_PATH, MANIFEST, TARGET_BROWSER),
 
     new WebpackBar({
-      name: 'Signum XT Wallet',
+      name: 'Tura XT Wallet',
       color: '#80caff'
     }),
 

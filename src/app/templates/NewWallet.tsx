@@ -195,46 +195,46 @@ const NewWallet: FC<NewWalletProps> = ({ ownMnemonic = false, title }) => {
           />
         </>
 
-        <FormCheckbox
-          ref={register({
-            validate: val => val || t('confirmTermsError')
-          })}
-          errorCaption={errors.termsaccepted?.message}
-          name="termsaccepted"
-          label={t('acceptTerms')}
-          labelDescription={
-            <T
-              id="acceptTermsInputDescription"
-              substitutions={[
-                <T id="termsOfUsage" key="termsLink">
-                  {message => (
-                    <a
-                      href="https://www.signum.network/xtterms.html"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="underline text-secondary"
-                    >
-                      {message}
-                    </a>
-                  )}
-                </T>,
-                <T id="privacyPolicy" key="privacyPolicyLink">
-                  {message => (
-                    <a
-                      href="https://signum.network/xtprivacypolicy.html"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="underline text-secondary"
-                    >
-                      {message}
-                    </a>
-                  )}
-                </T>
-              ]}
-            />
-          }
-          containerClassName="mb-8"
-        />
+        {/*<FormCheckbox*/}
+        {/*  ref={register({*/}
+        {/*    validate: val => val || t('confirmTermsError')*/}
+        {/*  })}*/}
+        {/*  errorCaption={errors.termsaccepted?.message}*/}
+        {/*  name="termsaccepted"*/}
+        {/*  label={t('acceptTerms')}*/}
+        {/*  labelDescription={*/}
+        {/*    <T*/}
+        {/*      id="acceptTermsInputDescription"*/}
+        {/*      substitutions={[*/}
+        {/*        <T id="termsOfUsage" key="termsLink">*/}
+        {/*          {message => (*/}
+        {/*            <a*/}
+        {/*              href="https://www.signum.network/xtterms.html"*/}
+        {/*              target="_blank"*/}
+        {/*              rel="noopener noreferrer"*/}
+        {/*              className="underline text-secondary"*/}
+        {/*            >*/}
+        {/*              {message}*/}
+        {/*            </a>*/}
+        {/*          )}*/}
+        {/*        </T>,*/}
+        {/*        <T id="privacyPolicy" key="privacyPolicyLink">*/}
+        {/*          {message => (*/}
+        {/*            <a*/}
+        {/*              href="https://signum.network/xtprivacypolicy.html"*/}
+        {/*              target="_blank"*/}
+        {/*              rel="noopener noreferrer"*/}
+        {/*              className="underline text-secondary"*/}
+        {/*            >*/}
+        {/*              {message}*/}
+        {/*            </a>*/}
+        {/*          )}*/}
+        {/*        </T>*/}
+        {/*      ]}*/}
+        {/*    />*/}
+        {/*  }*/}
+        {/*  containerClassName="mb-8"*/}
+        {/*/>*/}
 
         <FormSubmitButton loading={submitting}>
           <T id={ownMnemonic ? 'import' : 'create'} />

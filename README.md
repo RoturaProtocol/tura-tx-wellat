@@ -1,4 +1,4 @@
-# Signum XT Wallet
+# Tura XT Wallet
 
 Cryptocurrency wallet for [Signum blockchain platform](https://signum.network) as Web Extension for your Browser.<br>
 Providing ability to manage Signa and interact with DApps.

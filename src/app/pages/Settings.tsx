@@ -31,33 +31,33 @@ type SettingsProps = {
 };
 
 const TABS = [
-  {
-    slug: 'general-settings',
-    titleI18nKey: 'generalSettings',
-    Icon: SettingsIcon,
-    Component: GeneralSettings,
-    color: '#667EEA',
-    descriptionI18nKey: 'generalSettingsDescription',
-    testID: SettingsSelectors.GeneralButton
-  },
-  {
-    slug: 'address-book',
-    titleI18nKey: 'addressBook',
-    Icon: ContactBookIcon,
-    Component: AddressBook,
-    color: '#d53f8c',
-    descriptionI18nKey: 'addressBookDescription',
-    testID: SettingsSelectors.AddressBookButton
-  },
-  {
-    slug: 'dapps',
-    titleI18nKey: 'dApps',
-    Icon: AppsIcon,
-    Component: DAppSettings,
-    color: '#eaac7a',
-    descriptionI18nKey: 'dAppsDescription',
-    testID: SettingsSelectors.DAppsButton
-  },
+  // {
+  //   slug: 'general-settings',
+  //   titleI18nKey: 'generalSettings',
+  //   Icon: SettingsIcon,
+  //   Component: GeneralSettings,
+  //   color: '#667EEA',
+  //   descriptionI18nKey: 'generalSettingsDescription',
+  //   testID: SettingsSelectors.GeneralButton
+  // },
+  // {
+  //   slug: 'address-book',
+  //   titleI18nKey: 'addressBook',
+  //   Icon: ContactBookIcon,
+  //   Component: AddressBook,
+  //   color: '#d53f8c',
+  //   descriptionI18nKey: 'addressBookDescription',
+  //   testID: SettingsSelectors.AddressBookButton
+  // },
+  // {
+  //   slug: 'dapps',
+  //   titleI18nKey: 'dApps',
+  //   Icon: AppsIcon,
+  //   Component: DAppSettings,
+  //   color: '#eaac7a',
+  //   descriptionI18nKey: 'dAppsDescription',
+  //   testID: SettingsSelectors.DAppsButton
+  // },
   {
     slug: 'networks',
     titleI18nKey: 'networks',
@@ -66,7 +66,7 @@ const TABS = [
     color: '#F6C90E',
     descriptionI18nKey: 'networksDescription',
     testID: SettingsSelectors.NetworksButton
-  },
+  }
   // {
   //   slug: 'activate-account',
   //   titleI18nKey: 'activateAccount',
@@ -76,48 +76,48 @@ const TABS = [
   //   descriptionI18nKey: 'activateAccountDescription',
   //   testID: SettingsSelectors.ActivateAccountButton
   // },
-  {
-    slug: 'remove-account',
-    titleI18nKey: 'removeAccount',
-    Icon: MinusIcon,
-    Component: RemoveAccount,
-    color: 'rgb(245, 101, 101)',
-    descriptionI18nKey: 'removeAccountDescription',
-    testID: SettingsSelectors.RemoveAccountButton
-  },
-  {
-    slug: 'nostr-account',
-    titleI18nKey: 'nostrAccount',
-    Icon: NostrIcon,
-    Component: NostrAccount,
-    color: '#9F7AEA',
-    descriptionI18nKey: 'nostrAccountDescription'
-  },
-  {
-    slug: 'nostr-relays',
-    titleI18nKey: 'nostrRelays',
-    Icon: SignalAltIcon,
-    Component: NostrRelaysSettings,
-    color: '#824fea',
-    descriptionI18nKey: 'nostrRelaysDescription'
-  },
-  {
-    slug: 'about',
-    titleI18nKey: 'about',
-    Icon: ExtensionIcon,
-    Component: About,
-    color: '#A0AEC0',
-    descriptionI18nKey: 'aboutDescription',
-    testID: SettingsSelectors.AboutButton
-  },
-  {
-    slug: 'help-and-community',
-    titleI18nKey: 'helpAndCommunity',
-    Icon: HelpIcon,
-    Component: HelpAndCommunity,
-    color: '#38B2AC',
-    descriptionI18nKey: 'helpAndCommunityDescription'
-  }
+  // {
+  //   slug: 'remove-account',
+  //   titleI18nKey: 'removeAccount',
+  //   Icon: MinusIcon,
+  //   Component: RemoveAccount,
+  //   color: 'rgb(245, 101, 101)',
+  //   descriptionI18nKey: 'removeAccountDescription',
+  //   testID: SettingsSelectors.RemoveAccountButton
+  // },
+  // {
+  //   slug: 'nostr-account',
+  //   titleI18nKey: 'nostrAccount',
+  //   Icon: NostrIcon,
+  //   Component: NostrAccount,
+  //   color: '#9F7AEA',
+  //   descriptionI18nKey: 'nostrAccountDescription'
+  // }
+  // {
+  //   slug: 'nostr-relays',
+  //   titleI18nKey: 'nostrRelays',
+  //   Icon: SignalAltIcon,
+  //   Component: NostrRelaysSettings,
+  //   color: '#824fea',
+  //   descriptionI18nKey: 'nostrRelaysDescription'
+  // },
+  // {
+  //   slug: 'about',
+  //   titleI18nKey: 'about',
+  //   Icon: ExtensionIcon,
+  //   Component: About,
+  //   color: '#A0AEC0',
+  //   descriptionI18nKey: 'aboutDescription',
+  //   testID: SettingsSelectors.AboutButton
+  // },
+  // {
+  //   slug: 'help-and-community',
+  //   titleI18nKey: 'helpAndCommunity',
+  //   Icon: HelpIcon,
+  //   Component: HelpAndCommunity,
+  //   color: '#38B2AC',
+  //   descriptionI18nKey: 'helpAndCommunityDescription'
+  // }
 ];
 
 const Settings: FC<SettingsProps> = ({ tabSlug }) => {

@@ -123,7 +123,7 @@
     "message": "Füge Deine Kontakte hinzu, entferne und verwalte sie."
   },
   "addressInputDescription": {
-    "message": "Adresse oder ID des Signum Kontos"
+    "message": "Adresse oder ID des Tura Kontos"
   },
   "addressInputDescriptionWithDomain": {
     "message": "Adresse, ID oder Alias des Kontos"
@@ -191,10 +191,10 @@
     "message": "Anderes Konto"
   },
   "appDesc": {
-    "message": "Kryptowährung-Wallet für die umweltfreundliche Signum 🍀-Blockchain als Erweiterung für Deinen Browser."
+    "message": "Kryptowährung-Wallet für die umweltfreundliche Tura 🍀-Blockchain als Erweiterung für Deinen Browser."
   },
   "appName": {
-    "message": "Signum XT Wallet"
+    "message": "Tura XT Wallet"
   },
   "appRequestsToSign": {
     "message": "$origin$ fordert dich auf die Transaktion zu bestätigen",
@@ -326,7 +326,7 @@
     "message": "Kommt bald"
   },
   "communityResourcesTitle": {
-    "message": "Du kannst jederzeit zusätzliche Informationen über die Signum XT Wallet finden oder um Hilfe bitten:"
+    "message": "Du kannst jederzeit zusätzliche Informationen über die Tura XT Wallet finden oder um Hilfe bitten:"
   },
   "confirm": {
     "message": "Bestätigen"
@@ -395,7 +395,7 @@
     "message": "Neue Wallet erstellen"
   },
   "createNewWalletDescription": {
-    "message": "Du bist neu bei Signum und hast noch keine Signum Wallet? Na, dann los! Lass uns eine neue Wallet erstellen"
+    "message": "Du bist neu bei Tura und hast noch keine Tura Wallet? Na, dann los! Lass uns eine neue Wallet erstellen"
   },
   "currentContacts": {
     "message": "Aktuelle Kontakte"
@@ -901,7 +901,7 @@
     "message": "Die Mindestgebühr für diese Transaktion ist höher als dein Guthaben."
   },
   "mnemonic": {
-    "message": "Signum Recovery Phrase"
+    "message": "Tura Recovery Phrase"
   },
   "mnemonicInputDescription": {
     "message": "Deine geheime Recovery Phrase; normalerweise 12 Wörter."
@@ -952,7 +952,7 @@
     "message": "Netzwerke"
   },
   "networksDescription": {
-    "message": "In diesem Abschnitt kannst du benutzerdefinierte Signum Nodes/Peers hinzufügen oder löschen."
+    "message": "In diesem Abschnitt kannst du benutzerdefinierte Tura Nodes/Peers hinzufügen oder löschen."
   },
   "newContactPlaceholder": {
     "message": "z.B. Jane Doe"
@@ -1130,7 +1130,7 @@
   },
   "recipientInputPlaceholderWithDomain": {
     "message": "z.B. S-6SJC-..., 17332... oder peter",
-    "description": "foobar = Signum Alias"
+    "description": "foobar = Tura Alias"
   },
   "tokenNotFoundError": {
     "message": "Token existiert nicht."
@@ -1510,7 +1510,7 @@
     "message": "Alle ansehen"
   },
   "watchOnlyAccount": {
-    "message": "Signum-Adresse"
+    "message": "Tura-Adresse"
   },
   "website": {
     "message": "Website"
@@ -1539,7 +1539,7 @@
     "message": "Du hast noch keine Sammlerstücke!\nGuter Zeitpunkt, um eins zu erhalten"
   },
   "addressBalanceDescription": {
-    "message": "Nachdem Du ein Konto erstellt hast, erhältst du eine eindeutige Adresse – Deine persönliche Kennung in der Signum-Blockchain. Du benötigst diese Adresse, um SIGNA zu empfangen und Transaktionen auszuführen, d. h. SIGNA zu senden, Nachrichten zu senden, mit Smart Contracts zu interagieren, Token zu erstellen usw."
+    "message": "Nachdem Du ein Konto erstellt hast, erhältst du eine eindeutige Adresse – Deine persönliche Kennung in der Tura-Blockchain. Du benötigst diese Adresse, um SIGNA zu empfangen und Transaktionen auszuführen, d. h. SIGNA zu senden, Nachrichten zu senden, mit Smart Contracts zu interagieren, Token zu erstellen usw."
   },
   "addressBalanceHint": {
     "message": "Die Adresse wird als <b>S-A1B2-...</b> für das Hauptnetz oder <b>TS-A1B2-...</b> für das Testnetz dargestellt. Wenn du für dein Konto einen <b>Alias</b>-Namen erworben hast, wird dieser ebenfalls angezeigt. Sobald du ein positives Guthaben hast, wird es unter Ihrer Adresse angezeigt."
@@ -1566,7 +1566,7 @@
     "message": "Super! Du bist mit an Bord 🏆"
   },
   "congratsDescription2": {
-    "message": "Jetzt kennst du die grundlegendsten und wichtigsten Funktionen der Signum XT Wallet."
+    "message": "Jetzt kennst du die grundlegendsten und wichtigsten Funktionen der Tura XT Wallet."
   },
   "congratsDescription3": {
     "message": "Alle Funktionen des Tempels kannst du in unserer „Bildungsreihe“ auf YouTube kennenlernen."
@@ -1578,7 +1578,7 @@
     "message": "Tritt unseren Communities auf Telegram und Discord bei."
   },
   "congratsDescription6": {
-    "message": "Willkommen in der Signum-Welt!"
+    "message": "Willkommen in der Tura-Welt!"
   },
   "contractCreation": {
     "message": "Kontrakt erstellen"
@@ -1599,7 +1599,7 @@
     "message": "Fertig!"
   },
   "howToStartDescription1": {
-    "message": "Um mit der Nutzung deiner Wallet und der Interaktion mit dem Signum DApps-Ökosystem zu beginnen, muss der Kontostand positiv sein, da jede Transaktion eine geringe Gebühr kostet."
+    "message": "Um mit der Nutzung deiner Wallet und der Interaktion mit dem Tura DApps-Ökosystem zu beginnen, muss der Kontostand positiv sein, da jede Transaktion eine geringe Gebühr kostet."
   },
   "howToStartDescription2": {
     "message": "Du erhältst SIGNA entweder an einer der Börsen, mittels Schürfen (\"Mining\") auf Festplattern oder auch durch Community-Engagement. Komm zu uns auf Discord oder Telegram."
@@ -1719,13 +1719,13 @@
     "message": "Beispiel"
   },
   "createWalletDescription": {
-    "message": "Erstelle ein Signum-Wallet-Konto und du kannst:"
+    "message": "Erstelle ein Tura-Wallet-Konto und du kannst:"
   },
   "createWalletDescriptionOption1": {
     "message": "Signa senden und empfangen."
   },
   "createWalletDescriptionOption2": {
-    "message": "Mit Signum DApps verbinden und interagieren."
+    "message": "Mit Tura DApps verbinden und interagieren."
   },
   "accountActivationAlertTitle": {
     "message": "Konto nicht aktiviert"
@@ -1740,7 +1740,7 @@
     "message": "Versuche einen anderen Knoten auszuwählen, oder überprüfe deine Internetverbindung."
   },
   "accountActivationSuccessDescription": {
-    "message": "Willkommen bei Signum! Falls noch nicht sichtbar, erhältst du in wenigen Augenblicken eine eingehende Aktivierungstransaktion."
+    "message": "Willkommen bei Tura! Falls noch nicht sichtbar, erhältst du in wenigen Augenblicken eine eingehende Aktivierungstransaktion."
   },
   "accountActivationSuccessTitle": {
     "message": "Konto erfolgreich aktiviert"
@@ -2052,7 +2052,7 @@
     "message": "Nostr Privater Schlüssel"
   },
   "nostrAccountImportDescription": {
-    "message": "Du kannst die Signum Recovery Phrase verwenden um einen Nostr Account zu generieren. Wenn du die Option auswählst ist es moeglich die Wallet auch mit Nostr Clients zu verwenden. Die generierten Schlüssel kannst Du in den Einstellungen einsehen."
+    "message": "Du kannst die Tura Recovery Phrase verwenden um einen Nostr Account zu generieren. Wenn du die Option auswählst ist es moeglich die Wallet auch mit Nostr Clients zu verwenden. Die generierten Schlüssel kannst Du in den Einstellungen einsehen."
   },
   "importAccountRecoveryPhraseDescription": {
     "message": "Mit der Recovery Phrase kannst du ein Konto vollständig importieren. Du kannst dann Transaktionen ausgeführen und DApps können auch die Ausführung von Transaktionen beantragen. Deine Signierungsschlüssel werden verschlüsselt und ausschliesslich auf dieser Browser-Instanz gespeichert."
@@ -2061,7 +2061,7 @@
     "message": "Wenn du nur eine Konto-Adresse oder Konto-Id zum Importieren verwendest, ist es nicht möglich Transaktionen auszuführen. Du kannst das importierte Konto lediglich beobachten. "
   },
   "importAccountNostrPrivKeyDescription": {
-    "message": "Wenn du ein Nostr Konto, aber kein Signum Konto hast, kannst du deinen privaten Nostr Schlüssel verwenden, um zu deinem bestehenden Nostr Account ein passendes Signum Konto zu erstellen. Du kannst den privaten Nostr Schlüssel auch in anderen Signum Wallets verwenden."
+    "message": "Wenn du ein Nostr Konto, aber kein Tura Konto hast, kannst du deinen privaten Nostr Schlüssel verwenden, um zu deinem bestehenden Nostr Account ein passendes Tura Konto zu erstellen. Du kannst den privaten Nostr Schlüssel auch in anderen Tura Wallets verwenden."
   },
   "nostrPrivateKeyInputLabel": {
     "message": "Privater Nostr-Schlüssel"

@@ -118,19 +118,19 @@ const NostrAccount: FC = () => {
           value={publicKey}
           disabled={!hasNostr}
         />
-        <div className="ml-1 mb-2 p-1 bg-gray-100 border-2 border-gray-300 rounded-lg" style={{ maxWidth: '72px' }}>
-          <QRCode
-            bgColor="#f7fafc"
-            fgColor="#000000"
-            level="Q"
-            style={{
-              width: '100%',
-              filter: !publicKey ? 'blur(4px)' : '',
-              opacity: !publicKey ? '0.5' : '1.0'
-            }}
-            value={publicKey}
-          />
-        </div>
+        {/*<div className="ml-1 mb-2 p-1 bg-gray-100 border-2 border-gray-300 rounded-lg" style={{ maxWidth: '72px' }}>*/}
+        {/*  <QRCode*/}
+        {/*    bgColor="#f7fafc"*/}
+        {/*    fgColor="#000000"*/}
+        {/*    level="Q"*/}
+        {/*    style={{*/}
+        {/*      width: '100%',*/}
+        {/*      filter: !publicKey ? 'blur(4px)' : '',*/}
+        {/*      opacity: !publicKey ? '0.5' : '1.0'*/}
+        {/*    }}*/}
+        {/*    value={publicKey}*/}
+        {/*  />*/}
+        {/*</div>*/}
       </div>
 
       <div className="flex flex-row items-end justify-between w-full mb-4">
@@ -149,17 +149,17 @@ const NostrAccount: FC = () => {
           disabled={!hasNostr}
         />
         <div className={`ml-1 mb-2 p-1 bg-gray-100 border-2 border-gray-300 rounded-lg`} style={{ maxWidth: '72px' }}>
-          <QRCode
-            bgColor="#f7fafc"
-            fgColor="#000000"
-            level="Q"
-            style={{
-              width: '100%',
-              filter: privateKey === PrivkeyDefaultMessage ? 'blur(4px)' : '',
-              opacity: privateKey === PrivkeyDefaultMessage ? '0.5' : '1.0'
-            }}
-            value={privateKey}
-          />
+          {/*<QRCode*/}
+          {/*  bgColor="#f7fafc"*/}
+          {/*  fgColor="#000000"*/}
+          {/*  level="Q"*/}
+          {/*  style={{*/}
+          {/*    width: '100%',*/}
+          {/*    filter: privateKey === PrivkeyDefaultMessage ? 'blur(4px)' : '',*/}
+          {/*    opacity: privateKey === PrivkeyDefaultMessage ? '0.5' : '1.0'*/}
+          {/*  }}*/}
+          {/*  value={privateKey}*/}
+          {/*/>*/}
         </div>
       </div>
 

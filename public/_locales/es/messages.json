@@ -123,7 +123,7 @@
     "message": "Agregue, elimine y gestione sus contactos."
   },
   "addressInputDescription": {
-    "message": "Dirección o ID de la cuenta Signum"
+    "message": "Dirección o ID de la cuenta Tura"
   },
   "addressInputDescriptionWithDomain": {
     "message": "Dirección, ID o alias de la cuenta"
@@ -167,7 +167,7 @@
     "message": "Confirmar"
   },
   "analyticsConfirmationDescription": {
-    "message": "Estamos constantemente mejorando Signum XT wallet y necesitamos su ayuda. Para comprender mejor qué sección de la billetera debe actualizarse, recopilamos datos de uso anónimos. Estos datos solo se utilizan para mejorar la usabilidad de Signum XT wallet."
+    "message": "Estamos constantemente mejorando Tura XT Wallet y necesitamos su ayuda. Para comprender mejor qué sección de la billetera debe actualizarse, recopilamos datos de uso anónimos. Estos datos solo se utilizan para mejorar la usabilidad de Tura XT Wallet."
   },
   "analyticsConfirmationNeverCollect": {
     "message": "Nosotros NUNCA rastreamos:"
@@ -179,7 +179,7 @@
     "message": "Puede deshabilitar el seguimiento analítico en cualquier momento en la configuración de su billetera."
   },
   "analyticsConfirmationTitle": {
-    "message": "Ayúdanos a mejorar Signum XT wallet"
+    "message": "Ayúdanos a mejorar Tura XT Wallet"
   },
   "analyticsSettings": {
     "message": "Análisis anónimo"
@@ -191,10 +191,10 @@
     "message": "Otra cuenta"
   },
   "appDesc": {
-    "message": "Billetera de criptomonedas para la blockchain verde Signum 🍀 como una extensión para su navegador."
+    "message": "Billetera de criptomonedas para la blockchain verde Tura 🍀 como una extensión para su navegador."
   },
   "appName": {
-    "message": "Signum XT Wallet"
+    "message": "Tura XT Wallet"
   },
   "appRequestsToSign": {
     "message": "$origin$ Desea que confirmes la transacción",
@@ -326,7 +326,7 @@
     "message": "Próximamente"
   },
   "communityResourcesTitle": {
-    "message": "Siempre puede encontrar información adicional sobre la billetera Signum XT o solicitar ayuda:"
+    "message": "Siempre puede encontrar información adicional sobre la billetera Tura XT o solicitar ayuda:"
   },
   "confirm": {
     "message": "Confirmar"
@@ -395,7 +395,7 @@
     "message": "Crear nueva billetera"
   },
   "createNewWalletDescription": {
-    "message": "¿Eres nuevo en Signum y aún no tienes una billetera Signum? ¡Pues adelante! Vamos a crear una nueva billetera"
+    "message": "¿Eres nuevo en Tura y aún no tienes una billetera Tura? ¡Pues adelante! Vamos a crear una nueva billetera"
   },
   "currentContacts": {
     "message": "Contactos Actuales"
@@ -790,7 +790,7 @@
     "message": "Idioma"
   },
   "ledgerLiveBridgeGuide": {
-    "message": "Para conectarse a Ledger, active la aplicación Ledger Live en su dispositivo, abra la aplicación de billetera Signa y permita una conexión WebSocket a su cuenta de Signum."
+    "message": "Para conectarse a Ledger, active la aplicación Ledger Live en su dispositivo, abra la aplicación de billetera Signa y permita una conexión WebSocket a su cuenta de Tura."
   },
   "ledgerLiveSettings": {
     "message": "Usar Ledger Live"
@@ -901,7 +901,7 @@
     "message": "La tarifa mínima para esta transacción es más alto que su balance."
   },
   "mnemonic": {
-    "message": "Frase de recuperación de Signum"
+    "message": "Frase de recuperación de Tura"
   },
   "mnemonicInputDescription": {
     "message": "Tu Frase de Recuperación secreta; generalmente 12 palabras."
@@ -952,7 +952,7 @@
     "message": "Redes"
   },
   "networksDescription": {
-    "message": "En esta sección puede agregar o eliminar nodos/pares de Signum personalizados."
+    "message": "En esta sección puede agregar o eliminar nodos/pares de Tura personalizados."
   },
   "newContactPlaceholder": {
     "message": "por ejemplo, Jane Doe"
@@ -1130,7 +1130,7 @@
   },
   "recipientInputPlaceholderWithDomain": {
     "message": "por ejemplo, S-6SJC-..., 17332... o juan",
-    "description": "foobar = alias de cuenta en signum"
+    "description": "foobar = alias de cuenta en Tura"
   },
   "reject": {
     "message": "Rechazar"
@@ -1536,7 +1536,7 @@
     "message": "¡Aún no tienes ningún coleccionable!\nBuen momento para hacerte con uno"
   },
   "addressBalanceDescription": {
-    "message": "Después de crear una cuenta, obtendrá una dirección única: su identificador personal en la Blockchain de Signum. Necesita esta dirección para recibir Signa y ejecutar transacciones, es decir, enviar Signa, mensajes, interactuar con contratos inteligentes, emitir tokens, etc."
+    "message": "Después de crear una cuenta, obtendrá una dirección única: su identificador personal en la Blockchain de Tura. Necesita esta dirección para recibir Signa y ejecutar transacciones, es decir, enviar Signa, mensajes, interactuar con contratos inteligentes, emitir tokens, etc."
   },
   "addressBalanceHint": {
     "message": "La dirección se representa como <b>S-A1B2-...</b> para la red principal o <b>TS-A1B2-...</b> para la red de prueba(Test-net). Si adquirió un nombre de <b>alias</b> para su cuenta, también se podrá visualizar. Una vez que tenga un balance positivo, aparecerá debajo de su dirección."
@@ -1563,7 +1563,7 @@
     "message": "¡Estupendo! estás preparado 🏆"
   },
   "congratsDescription2": {
-    "message": "Ahora ya puedes conocer las funciones básicas y más importantes de la billetera Signum XT."
+    "message": "Ahora ya puedes conocer las funciones básicas y más importantes de la billetera Tura XT."
   },
   "congratsDescription3": {
     "message": "Puede aprender todas las características del XT de nuestra \"Serie educativa\" en YouTube."
@@ -1575,7 +1575,7 @@
     "message": "Únete a la comunidad"
   },
   "congratsDescription6": {
-    "message": "¡Bienvenido a la blockchain sostenible Signum!"
+    "message": "¡Bienvenido a la blockchain sostenible Tura!"
   },
   "contractCreation": {
     "message": "Crear contrato"
@@ -1584,7 +1584,7 @@
     "message": "¡Ok!"
   },
   "howToStartDescription1": {
-    "message": "Para comenzar a usar su billetera e interactuar con el ecosistema Signum, el balance de la cuenta debe ser positivo, ya que cada transacción le cuesta una tarifa baja."
+    "message": "Para comenzar a usar su billetera e interactuar con el ecosistema Tura, el balance de la cuenta debe ser positivo, ya que cada transacción le cuesta una tarifa baja."
   },
   "howToStartDescription2": {
     "message": "Puede obtener Signa comprando en uno de los Exchange, minando con discos duros o participando en la comunidad. Únete a nosotros en Discord."
@@ -1704,13 +1704,13 @@
     "message": "Ejemplo"
   },
   "createWalletDescription": {
-    "message": "Cree una cuenta de billetera Signum y podrá:"
+    "message": "Cree una cuenta de billetera Tura y podrá:"
   },
   "createWalletDescriptionOption1": {
     "message": "enviar y recibir Signa."
   },
   "createWalletDescriptionOption2": {
-    "message": "conectarse e interactuar con DApps en la blockchain Signum."
+    "message": "conectarse e interactuar con DApps en la blockchain Tura."
   },
   "accountActivationAlertDescription": {
     "message": "Esta cuenta aún no está completamente registrada en la blockchain. Active su cuenta para garantizar su seguridad y hacerla completamente utilizable para todos los servicios, incluidos los exchanges."
@@ -1725,7 +1725,7 @@
     "message": "Intente seleccionar otro nodo o verifique su conexión a Internet."
   },
   "accountActivationSuccessDescription": {
-    "message": "¡Bienvenido a Signum! Si aún no está visible, recibirá una transacción de activación entrante en unos momentos."
+    "message": "¡Bienvenido a Tura! Si aún no está visible, recibirá una transacción de activación entrante en unos momentos."
   },
   "accountActivationSuccessTitle": {
     "message": "Cuenta activada con éxito"
@@ -2052,7 +2052,7 @@
     "message": "Clave privada de Nostr"
   },
   "nostrAccountImportDescription": {
-    "message": "Puede utilizar la frase de recuperación Signum para generar una cuenta Nostr. Si selecciona la opción, también es posible usar la billetera con Clientes Nostr. Puede ver las claves generadas en la configuración."
+    "message": "Puede utilizar la frase de recuperación Tura para generar una cuenta Nostr. Si selecciona la opción, también es posible usar la billetera con Clientes Nostr. Puede ver las claves generadas en la configuración."
   },
   "importAccountRecoveryPhraseDescription": {
     "message": "La frase de recuperación le permite importar una cuenta por completo. Luego puede ejecutar transacciones y DApps también puede solicitar que se ejecuten transacciones. Sus claves de firma se cifran y almacenan exclusivamente en esta instancia del navegador."
@@ -2061,7 +2061,7 @@
     "message": "Si solo usa una dirección de cuenta o una identificación de cuenta para importar, no será posible realizar transacciones. Solo puede observar la cuenta importada."
   },
   "importAccountNostrPrivKeyDescription": {
-    "message": "Si tiene una cuenta Nostr pero no una cuenta Signum, puede usar su clave Nostr privada para crear una cuenta Signum que coincida con su cuenta Nostr existente. También puede usar la clave privada Nostr en otras billeteras Signum."
+    "message": "Si tiene una cuenta Nostr pero no una cuenta Tura, puede usar su clave Nostr privada para crear una cuenta Tura que coincida con su cuenta Nostr existente. También puede usar la clave privada Nostr en otras billeteras Tura."
   },
   "nostrPrivateKeyInputLabel": {
     "message": "Clave Nostr privada"

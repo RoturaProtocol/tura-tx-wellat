@@ -16,7 +16,6 @@ function extractSRC47URI(url: URL): string {
       if (!str.startsWith('https://') && !str.startsWith('http://')) {
         str = `https://${str}`;
       }
-
       URIResolver.parseURI(str);
       return str;
     } catch (e: any) {
@@ -43,7 +42,7 @@ function extractSRC47URI(url: URL): string {
 const SWHackyLedger = (nodeHost: string) => ({
   alias: {
     getAliasByName: async (aliasName: string, tld?: string) => {
-      let url = `${nodeHost}/api?requestType=getAlias&aliasName=${aliasName}`;
+      let url = `${nodeHost}/burst?requestType=getAlias&aliasName=${aliasName}`;
       if (tld) {
         url += `&tld=${tld}`;
       }

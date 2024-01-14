@@ -62,16 +62,16 @@ const BackupMnemonic: FC<BackupProps> = ({ mnemonic, buttonLabelId, onBackupComp
 
       <form className="w-full" onSubmit={handleSubmit(onBackupComplete)}>
         <div className="mb-2">
-          <div className="flex flex-row items-center w-full">
-            <FormCheckbox
-              containerClassName="w-full"
-              name="withNostr"
-              ref={register()}
-              label={t('nostrAccountImport')}
-            />
-            <NostrIcon className="ml-2 h-10 w-auto" />
-          </div>
-          <div className="text-xs text-gray-500 text-justify">{t('nostrAccountImportDescription')}</div>
+          {/*<div className="flex flex-row items-center w-full">*/}
+          {/*  <FormCheckbox*/}
+          {/*    containerClassName="w-full"*/}
+          {/*    name="withNostr"*/}
+          {/*    ref={register()}*/}
+          {/*    label={t('nostrAccountImport')}*/}
+          {/*  />*/}
+          {/*  <NostrIcon className="ml-2 h-10 w-auto" />*/}
+          {/*</div>*/}
+          {/*<div className="text-xs text-gray-500 text-justify">{t('nostrAccountImportDescription')}</div>*/}
         </div>
 
         <FormCheckbox

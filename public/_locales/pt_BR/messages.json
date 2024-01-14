@@ -123,7 +123,7 @@
     "message": "Adicione, remova e gerencie seus contatos."
   },
   "addressInputDescription": {
-    "message": "Endereço ou ID da conta Signum"
+    "message": "Endereço ou ID da conta Tura"
   },
   "addressInputDescriptionWithDomain": {
     "message": "Endereço, ID ou alias da conta"
@@ -191,10 +191,10 @@
     "message": "Outra conta"
   },
   "appDesc": {
-    "message": "Carteira de criptomoedas para o blockchain verde Signum 🍀 como uma extensão para o seu navegador."
+    "message": "Carteira de criptomoedas para o blockchain verde Tura 🍀 como uma extensão para o seu navegador."
   },
   "appName": {
-    "message": "Carteira Signum XT"
+    "message": "Carteira Tura XT"
   },
   "appRequestsToSign": {
     "message": "$origin$ solicita que você confirme a transação",
@@ -326,7 +326,7 @@
     "message": "Em breve"
   },
   "communityResourcesTitle": {
-    "message": "Você sempre pode encontrar informações adicionais sobre a carteira Signum XT ou pedir ajuda:"
+    "message": "Você sempre pode encontrar informações adicionais sobre a carteira Tura XT ou pedir ajuda:"
   },
   "confirm": {
     "message": "Confirmar"
@@ -395,7 +395,7 @@
     "message": "Criar nova carteira"
   },
   "createNewWalletDescription": {
-    "message": "Você é novo no Signum e ainda não tem uma carteira Signum? Pois então vá! Vamos criar uma nova carteira"
+    "message": "Você é novo no Tura e ainda não tem uma carteira Tura? Pois então vá! Vamos criar uma nova carteira"
   },
   "currentContacts": {
     "message": "Contatos atuais"
@@ -901,7 +901,7 @@
     "message": "A taxa mínima para esta transação é superior ao seu saldo."
   },
   "mnemonic": {
-    "message": "Frase de Recuperação Signum"
+    "message": "Frase de Recuperação Tura"
   },
   "mnemonicInputDescription": {
     "message": "Sua Frase de Recuperação secreta; geralmente 12 palavras."
@@ -952,7 +952,7 @@
     "message": "Redes"
   },
   "networksDescription": {
-    "message": "Nesta seção, você pode adicionar ou excluir nós de rede de Signum personalizados."
+    "message": "Nesta seção, você pode adicionar ou excluir nós de rede de Tura personalizados."
   },
   "newContactPlaceholder": {
     "message": "por exemplo, Jane Doe"
@@ -1536,7 +1536,7 @@
     "message": "Você ainda não tem colecionáveis!\nBoa hora para pegar um"
   },
   "addressBalanceDescription": {
-    "message": "Depois de criar uma conta, você receberá um endereço exclusivo - seu identificador pessoal no blockchain Signum. Você precisa deste endereço para receber SIGNA e executar transações, ou seja, enviar SIGNA, mensagens, interagir com Smart Contracts, emitir tokens, etc."
+    "message": "Depois de criar uma conta, você receberá um endereço exclusivo - seu identificador pessoal no blockchain Tura. Você precisa deste endereço para receber SIGNA e executar transações, ou seja, enviar SIGNA, mensagens, interagir com Smart Contracts, emitir tokens, etc."
   },
   "addressBalanceHint": {
     "message": "O endereço está sendo representado como <b>S-A1B2-...</b> para rede principal ou <b>TS-A1B2-...</b> para rede de teste. Se você adquiriu um nome de <b>alias</b> para sua conta, ele também poderá ser exibido. Depois de ter um saldo positivo, ele aparece abaixo do seu endereço."
@@ -1563,7 +1563,7 @@
     "message": "Excelente! Você está integrado 🏆"
   },
   "congratsDescription2": {
-    "message": "Agora você conhece as funções básicas e mais importantes da carteira Signum XT."
+    "message": "Agora você conhece as funções básicas e mais importantes da carteira Tura XT."
   },
   "congratsDescription3": {
     "message": "Você pode aprender todos os recursos do XT em nossa “Série Educacional” no YouTube."
@@ -1575,7 +1575,7 @@
     "message": "Junte-se às nossas comunidades no Telegram e no Discord."
   },
   "congratsDescription6": {
-    "message": "Bem-vindo ao mundo Signum!"
+    "message": "Bem-vindo ao mundo Tura!"
   },
   "contractCreation": {
     "message": "Criar contrato"
@@ -1584,7 +1584,7 @@
     "message": "Feito!"
   },
   "howToStartDescription1": {
-    "message": "Para começar a usar sua carteira e interagir com o ecossistema Signum DApps, o saldo da conta deve ser positivo, pois cada transação custa uma taxa baixa"
+    "message": "Para começar a usar sua carteira e interagir com o ecossistema Tura DApps, o saldo da conta deve ser positivo, pois cada transação custa uma taxa baixa"
   },
   "howToStartDescription2": {
     "message": "Você pode obter o SIGNA comprando em uma das exchanges, minerando com discos rígidos ou participando de compromissos da comunidade. Junte-se a nós no Discord"
@@ -1704,13 +1704,13 @@
     "message": "Exemplo"
   },
   "createWalletDescription": {
-    "message": "Crie uma conta de carteira Signum e você pode:"
+    "message": "Crie uma conta de carteira Tura e você pode:"
   },
   "createWalletDescriptionOption1": {
     "message": "enviar e receber Signa."
   },
   "createWalletDescriptionOption2": {
-    "message": "conectar e interagir com Signum DApps."
+    "message": "conectar e interagir com Tura DApps."
   },
   "accountActivationAlertDescription": {
     "message": "Esta conta ainda não está totalmente registrada no blockchain. Ative sua conta para garantir sua segurança e torná-la totalmente utilizável para todos os serviços, incluindo os câmbios."
@@ -1725,7 +1725,7 @@
     "message": "Tente selecionar outro nó ou verifique sua conexão com a Internet."
   },
   "accountActivationSuccessDescription": {
-    "message": "Bem-vindo ao Signum! Se ainda não estiver visível, você receberá uma transação de ativação em alguns instantes."
+    "message": "Bem-vindo ao Tura! Se ainda não estiver visível, você receberá uma transação de ativação em alguns instantes."
   },
   "accountActivationSuccessTitle": {
     "message": "Conta ativada com sucesso"
@@ -2052,7 +2052,7 @@
     "message": "Chave Privada Nostr"
   },
   "nostrAccountImportDescription": {
-    "message": "Você pode usar a Frase de Recuperação Signum para gerar uma conta Nostr. Se você selecionar a opção, é possível usar a carteira também com clientes Nostr. Você pode ver as chaves geradas nas configurações."
+    "message": "Você pode usar a Frase de Recuperação Tura para gerar uma conta Nostr. Se você selecionar a opção, é possível usar a carteira também com clientes Nostr. Você pode ver as chaves geradas nas configurações."
   },
   "importAccountRecoveryPhraseDescription": {
     "message": "A Frase de Recuperação permite que você importe uma conta completamente. Você pode então executar transações e os DApps também podem solicitar que as transações sejam executadas. Suas chaves de assinatura são criptografadas e armazenadas exclusivamente nesta instância do navegador."
@@ -2061,7 +2061,7 @@
     "message": "Se você usar apenas um endereço de conta ou id de conta para importar, não será possível realizar transações. Você só pode observar a conta importada."
   },
   "importAccountNostrPrivKeyDescription": {
-    "message": "Se você tiver uma conta Nostr, mas nenhuma conta Signum, você pode usar sua chave privada Nostr para criar uma conta Signum correspondente para sua conta Nostr existente. Você também pode usar a chave privada Nostr em outras carteiras Signum."
+    "message": "Se você tiver uma conta Nostr, mas nenhuma conta Tura, você pode usar sua chave privada Nostr para criar uma conta Tura correspondente para sua conta Nostr existente. Você também pode usar a chave privada Nostr em outras carteiras Tura."
   },
   "nostrPrivateKeyInputLabel": {
     "message": "Chave Privada Nostr"

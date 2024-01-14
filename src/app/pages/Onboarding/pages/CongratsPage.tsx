@@ -11,31 +11,31 @@ import { useOnboardingProgress } from '../hooks/useOnboardingProgress.hook';
 import styles from '../Onboarding.module.css';
 
 const links = [
+  // {
+  //   href: 'https://discord.gg/QHZkF4KHDS',
+  //   background: '#7289DA',
+  //   Icon: DiscordIcon
+  // },
   {
-    href: 'https://discord.gg/QHZkF4KHDS',
-    background: '#7289DA',
-    Icon: DiscordIcon
-  },
-  {
-    href: 'https://t.me/signumnetwork',
+    href: 'https://t.me/TuraGlobal',
     background: '#26A5E4',
     Icon: TelegramIcon
   },
   {
-    href: 'https://twitter.com/signum_official',
+    href: 'https://twitter.com/Tura_Blockchain',
     background: '#1DA1F2',
     Icon: TwitterIcon
-  },
-  {
-    href: 'https://www.youtube.com/c/SignumNetwork',
-    background: '#FF0000',
-    Icon: YoutubeIcon
-  },
-  {
-    href: 'https://www.reddit.com/r/Signum/',
-    background: '#FF4500',
-    Icon: RedditIcon
   }
+  // {
+  //   href: 'https://www.youtube.com/c/SignumNetwork',
+  //   background: '#FF0000',
+  //   Icon: YoutubeIcon
+  // },
+  // {
+  //   href: 'https://www.reddit.com/r/Signum/',
+  //   background: '#FF4500',
+  //   Icon: RedditIcon
+  // }
 ];
 
 const CongratsPage: FC = () => {

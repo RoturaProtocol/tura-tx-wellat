@@ -21,7 +21,7 @@ const Logo = memo<LogoProps>(({ hasTitle, white, xt, style = {}, ...rest }) => {
 
   return (
     <Component
-      title="Signum XT Wallet"
+      title="Tura XT Wallet"
       style={{
         height: 40,
         width: 'auto',

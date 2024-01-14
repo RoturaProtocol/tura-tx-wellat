@@ -90,22 +90,22 @@ const Receive: FC = () => {
             )}
           </button>
 
-          <div className="flex flex-col items-center">
-            <div className="mb-2 leading-tight text-center">
-              <T id="qrCode">{message => <span className="text-sm font-semibold text-gray-700">{message}</span>}</T>
-            </div>
+          {/*<div className="flex flex-col items-center">*/}
+          {/*  <div className="mb-2 leading-tight text-center">*/}
+          {/*    <T id="qrCode">{message => <span className="text-sm font-semibold text-gray-700">{message}</span>}</T>*/}
+          {/*  </div>*/}
 
-            <div className="p-1 bg-gray-100 border-2 border-gray-300 rounded" style={{ maxWidth: '60%' }}>
-              <QRCode bgColor="#f7fafc" fgColor="#000000" level="Q" style={{ width: '100%' }} value={deeplink} />
-            </div>
-            <div className="mt-2 mb-2 leading-tight text-center">
-              <a href="https://phoenix-wallet.rocks" target="_blank" rel="noopener noreferrer">
-                <T id="usePhoenixWallet">
-                  {message => <span className="underline text-xs text-gray-600">{message}</span>}
-                </T>
-              </a>
-            </div>
-          </div>
+          {/*  <div className="p-1 bg-gray-100 border-2 border-gray-300 rounded" style={{ maxWidth: '60%' }}>*/}
+          {/*    <QRCode bgColor="#f7fafc" fgColor="#000000" level="Q" style={{ width: '100%' }} value={deeplink} />*/}
+          {/*  </div>*/}
+          {/*  <div className="mt-2 mb-2 leading-tight text-center">*/}
+          {/*    <a href="https://phoenix-wallet.rocks" target="_blank" rel="noopener noreferrer">*/}
+          {/*      <T id="usePhoenixWallet">*/}
+          {/*        {message => <span className="underline text-xs text-gray-600">{message}</span>}*/}
+          {/*      </T>*/}
+          {/*    </a>*/}
+          {/*  </div>*/}
+          {/*</div>*/}
         </div>
       </div>
     </PageLayout>

@@ -88,12 +88,12 @@ const Explore: FC<ExploreProps> = ({ tokenId }) => {
           </div>
         )}
         <NostrAddressChip account={account} className="mb-2" />
-        <div className="flex flex-row justify-between items-center mb-2">
-          <div className="p-1 bg-gray-100 border-2 border-gray-300 rounded" style={{ maxWidth: '64px' }}>
-            <QRCode bgColor="#f7fafc" fgColor="#000000" level="Q" style={{ width: '100%' }} value={account.accountId} />
-          </div>
-          <AddressChip account={account} className="ml-2" />
-        </div>
+        {/*<div className="flex flex-row justify-between items-center mb-2">*/}
+        {/*  <div className="p-1 bg-gray-100 border-2 border-gray-300 rounded" style={{ maxWidth: '64px' }}>*/}
+        {/*    <QRCode bgColor="#f7fafc" fgColor="#000000" level="Q" style={{ width: '100%' }} value={account.accountId} />*/}
+        {/*  </div>*/}
+        {/*  <AddressChip account={account} className="ml-2" />*/}
+        {/*</div>*/}
         <AssetBanner accountId={account.accountId} tokenId={tokenId} />
 
         <div className="flex justify-around mx-auto w-full max-w-sm mt-6 px-8">
