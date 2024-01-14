@@ -1,4 +1,4 @@
-# Tura XT Wallet
+![image](https://github.com/RoturaProtocol/tura-tx-wellat/assets/44689430/390d6bb1-77a0-4708-8297-7c918fb2c17e)# Tura XT Wallet
 
 Cryptocurrency wallet for [Signum blockchain platform](https://signum.network) as Web Extension for your Browser.<br>
 Providing ability to manage Signa and interact with DApps.
@@ -79,3 +79,21 @@ yarn build-all
 ## Credits
 
 This project is a fork of the [amazing work](https://templewallet.com/) from [Madfish Solutions](https://www.madfish.solutions/)
+
+
+
+以上为插件启动及打包方法。
+
+在chrom打开插件之后  需要在dist 文件夹下 fullpage.js 中 将这个位置的‘api’改为‘burst’![image](https://github.com/RoturaProtocol/tura-tx-wellat/assets/44689430/ed101574-c6db-41b1-9a1e-442f2044bbc6)即可
+
+
+
+
+
+
+
+
+
+
+
+
